@@ -3,6 +3,17 @@
 
  Create a profile for *5* people (historic or current) *and* 5 countries. The user should be able to search for the country or people and see the results. Once completed, fellow classmates will review and rate your design and content.
 
+1. Galileo Galilei
+
+2. Ariana Grande
+
+3. Billie Eilish
+
+4. Isaac Newton
+
+5. Albert Einstein
+
+
 # Example
     
 JSBin: [https://output.jsbin.com/wiyocox?authuser=0](https://output.jsbin.com/wiyocox?authuser=0)
